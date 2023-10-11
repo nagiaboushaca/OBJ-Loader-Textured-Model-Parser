@@ -1,4 +1,4 @@
-# Assignment 4 - Render a Textured .obj model
+# OBJ Loader: Textured Model Parser
 
 <img align="right" src="./media/house.jpg" width="400px" alt="picture">
   
